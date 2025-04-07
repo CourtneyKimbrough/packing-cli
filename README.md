@@ -1,5 +1,5 @@
-# ruby-cli-template
+# Packing CLI 
+The Packing Cli app proves users with a simple, command-line interface to create a packing list and track which items have been packed.
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
-
-- Ruby version: `3.2.1`
+## Usage
+Run ruby app.rb in the terminal
